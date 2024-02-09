@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhanzman
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning React framework
-- 💞️ I’m looking to collaborate on with advance and haerdworking programmer
+- 💞️ I’m looking to collaborate on with advance and hardworking programmer
 - 📫 How to reach me danielsosimi123@gmail.com
 
 <!---
